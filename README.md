@@ -42,4 +42,6 @@ This project is a Hackintosh configuration designed for the Lenovo ThinkPad P1 G
 
 Feel free to submit Pull Requests or Issues to improve this project.
 
-## Lic
+## License
+
+MIT License
