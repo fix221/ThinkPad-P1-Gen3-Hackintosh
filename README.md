@@ -22,7 +22,7 @@ This project is a Hackintosh configuration designed for the Lenovo ThinkPad P1 G
 
 - Processor: Intel Core i7-10850H
 - Memory: 32GB/64GB DDR4
-- Graphics: Intel UHD Graphics 630/NVIDIA Quadro T1000/T2000 (needs to be disabled)
+- Graphics: Intel UHD Graphics 630/NVIDIA Quadro T1000 (needs to be disabled)
 - Storage: WD SN730(NVME)
 - Wireless Card: Intel Wi-Fi 6 AX201
 - Audio Card: Realtek ALC285
